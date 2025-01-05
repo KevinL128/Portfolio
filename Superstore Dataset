@@ -1,0 +1,34 @@
+/* Dataset information 
+
+This project uses the dataset "Netflix Movies and TV Shows" from kaggle.
+The dataset has been imported into an SQL database for analysis.
+
+**Source**: https://www.kaggle.com/datasets/shivamb/netflix-shows
+*/
+
+CREATE DATABASE superstore
+
+CREATE TABLE superstore (
+	row_id int primary key,
+	order_id varchar(20),
+	order_date date,
+	ship_date date,
+	ship_mode varchar(50),
+	customer_id varchar(50),
+	customer_name varchar(50),
+	segment varchar(50),
+	country varchar(50),
+	city varchar(50),
+	state varchar(50),
+	postal_code int,
+	region varchar(50),
+	product_id varchar(50),
+	category varchar(50),
+	product_name varchar(200),
+	sales decimal(10,2),
+	quantity int,
+	discount decimal(10,2),
+	profit decimal(10,4)
+);
+
+
