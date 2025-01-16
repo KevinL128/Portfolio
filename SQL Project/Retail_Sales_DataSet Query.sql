@@ -1,4 +1,4 @@
-/* Dataset information 
+/* Dataset information  
 
 This project uses the dataset "Retail Sales Dataset" from kaggle.
 The dataset has been imported into an SQL database for analysis.
