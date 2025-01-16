@@ -1,6 +1,6 @@
 /* Dataset information 
 
-This project uses the dataset "Retail Sales Dataset" from kaggle.
+This project used the dataset "Retail Sales Dataset" from kaggle.
 The dataset has been imported into an SQL database for analysis.
 
 **Source**: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
