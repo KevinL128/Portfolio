@@ -1,11 +1,10 @@
-/* Dataset information  
+/* Dataset Information  
 
-This project uses the dataset "Retail Sales Dataset" from kaggle.
-The dataset has been imported into an SQL database for analysis.
+This project uses the dataset "Retail Sales Dataset" from Kaggle.
+The dataset has been imported into an SQL database for analysis using Microsoft SQL Server Management Studio.
 
 **Source**: https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
-*/
-
+*/ 
 
 
 /* 1. Who is the most valuable customer? */
