@@ -1,4 +1,4 @@
-#This project was developed as part of a collaborative assignment with a team of classmates
+#This project was developed as part of a collaborative assignment with my classmates
 #We used the Python programming skills we acquired in our college classes. 
 
 #The goal for this project are:
