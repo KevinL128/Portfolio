@@ -39,7 +39,6 @@ This reporsitory is organized into folders based on the tool used for each proje
 **Contact**
 
 [Linkedin](www.linkedin.com/in/kevinliye)
-
-Gmail : Kevinliye18@gmail.com
+Kevinliye18@gmail.com
 
 
