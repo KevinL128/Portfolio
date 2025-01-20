@@ -1,4 +1,4 @@
-# SQL-Portfolio
+# Portfolio Information
 
 Welcome to my Data Analyst Portfolio ! 🚀
 
