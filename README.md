@@ -36,10 +36,5 @@ This reporsitory is organized into folders based on the tool used for each proje
 **Skills demonstraded:** Input, Loops, Conditionals, Debugging, Problem-Solving, Data management and manipulation.
 
 
-# Contact
-
-Linkedin: @Kevinliye
-
-Email: Kevinliye18@gmail.com
 
 
