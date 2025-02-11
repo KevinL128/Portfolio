@@ -35,7 +35,7 @@ This reporsitory is organized into folders based on the tool used for each proje
 
 **Skills demonstraded:** Data Cleaning and Preprocessing, Data Visualization **(Matplotlib and Seaborn)**, **Pandas** for Data Manipulation
 
-[**Admission Department Program of Humber Polytechnic**](https://github.com/KevinL128/Portfolio/tree/main/Python%20Project)
+[**Admission Department Program of Humber Polytechnic**](https://github.com/KevinL128/Portfolio/blob/main/Python%20Project/Admission%20Department%20Program.py)
 
 **Description:** This project I utilized Python to develop a program capable of managing student data efficiently. This involved input handling, loops, conditional logic, and list manipulation. I performed testing and debugging to ensure the program correctly handled both valid and invalid inputs. The program allowed for easy storage and manipulation of students names, making it a practical tool for admission-related tasks.
 
