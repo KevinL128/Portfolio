@@ -29,7 +29,7 @@ This reporsitory is organized into folders based on the tool used for each proje
    
 3. **Python Projects**
 
-[**Traffic Crash Chicago (EDA) Exploratory Data Analysis**](https://github.com/KevinL128/Portfolio/tree/main/Python%20Project)
+[**Traffic Crash Chicago (EDA) Exploratory Data Analysis**](https://github.com/KevinL128/Portfolio/blob/main/Python%20Project/Traffic%20Crash%20Chicago%20(EDA)%20Exploratory%20Data%20Analysis.ipynb)
 
 **Description**: This project involved performing Exploratory Data Analysis (EDA) on traffic crash data from the City of Chicago from 2013 to 2025. The dataset contains information about each crash, including crash date, weather conditions, lighting condition and other factors. Using Python and **Pandas Libraries** I cleaned and processed the dataset, hadled missing values, and created visualizations with **Matplotlib** and **Seaborn** to identify trends and patterns. This analysis can help understanding traffic safety and another risk factors for accident.
 
