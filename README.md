@@ -20,7 +20,7 @@ This reporsitory is organized into folders based on the tool used for each proje
 
 2. **SQL Projects**
    
-[**Retail Sales**]([https://github.com/KevinL128/Portfolio/tree/main/SQL%20Project](https://github.com/KevinL128/Portfolio/blob/main/SQL%20Project/Retail%20Sales%20SQL%20Query.sql))
+[**Retail Sales**](https://github.com/KevinL128/Portfolio/blob/main/SQL%20Project/Retail%20Sales%20SQL%20Query.sql)
 
 **Description:** This project I used SQL to perform data analysis on Retail Sales data. The data set includes, Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, Total Amount. I identified top-performing products categories and high-value customers, analyzed average age of customer, evaluated gender distribution, calculated average order value (AOV), identified the day of the week with the highest sales volume, which provided valuable information for strategic decision-making.
 
