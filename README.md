@@ -12,7 +12,7 @@ This reporsitory is organized into folders based on the tool used for each proje
 
 1.	**Power BI Projects**
 
-[**Supermarket Sales**](https://github.com/KevinL128/Portfolio/blob/main/SQL%20Project/Retail%20Sales%20SQL%20Query.sql)
+[**Supermarket Sales**](https://github.com/KevinL128/Portfolio/tree/main/Power%20BI%20Project)
 
 **Description:** This project focused on analyzing a supermarket sales data using Power BI. The data set includes, Invoice ID, Branch, City, Customer type, Gender, Product Line, Unit Price, Quantity, Tax 5%, Total, Date, Time, Payment, COGS, Gross margin, Gross income and Rating. Using this dataset, I created interactive dashboards, performed data analysis, and implemented DAX calculations.
 
