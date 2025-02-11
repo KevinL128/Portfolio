@@ -16,7 +16,7 @@ This reporsitory is organized into folders based on the tool used for each proje
 
 **Description:** This project focused on analyzing a supermarket sales data using Power BI. The data set includes, Invoice ID, Branch, City, Customer type, Gender, Product Line, Unit Price, Quantity, Tax 5%, Total, Date, Time, Payment, COGS, Gross margin, Gross income and Rating. Using this dataset, I created interactive dashboards, performed data analysis, and implemented DAX calculations.
 
-**Skills demonstrated:** Data visualization, DAX calculations, Data analysis, Data integration.
+**Skills demonstrated:** Data visualization, **DAX calculations**, Data analysis, Data integration.
 
 2. **SQL Projects**
    
@@ -28,7 +28,13 @@ This reporsitory is organized into folders based on the tool used for each proje
 
    
 3. **Python Projects**
-   
+
+[**Traffic Crash Chicago (EDA) Exploratory Data Analysis**](https://github.com/KevinL128/Portfolio/tree/main/Python%20Project)
+
+**Description**: This project involved performing Exploratory Data Analysis (EDA) on traffic crash data from the City of Chicago from 2013 to 2025. The dataset contains information about each crash, including crash date, weather conditions, lighting condition and other factors. Using Python and **Pandas Libraries** I cleaned and processed the dataset, hadled missing values, and created visualizations with **Matplotlib** and **Seaborn** to identify trends and patterns. This analysis can help understanding traffic safety and another risk factors for accident.
+
+**Skills demonstraded:** Data Cleaning and Preprocessing, Data Visualization **(Matplotlib and Seaborn)**, **Pandas** for Data Manipulation
+
 [**Admission Department Program of Humber Polytechnic**](https://github.com/KevinL128/Portfolio/tree/main/Python%20Project)
 
 **Description:** This project I utilized Python to develop a program capable of managing student data efficiently. This involved input handling, loops, conditional logic, and list manipulation. I performed testing and debugging to ensure the program correctly handled both valid and invalid inputs. The program allowed for easy storage and manipulation of students names, making it a practical tool for admission-related tasks.
